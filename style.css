@@ -70,7 +70,8 @@ footer {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 10px 0;
+    padding: 20x ;
+    margin-top: auto;
 }
 
 /* ---- Responsive Design ---- */
@@ -111,5 +112,10 @@ footer {
 
     #Image img {
         max-width: 150px;
+    }
+
+    footer {
+        padding: 15px;
+        font-size: 14px;
     }
 }
